@@ -1,4 +1,4 @@
-package com.example.admin_app
+package com.example.metri_valet
 
 import io.flutter.embedding.android.FlutterActivity
 

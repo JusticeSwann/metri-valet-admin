@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "718274219517",
+    "project_id": "metri-valet-d7486",
+    "storage_bucket": "metri-valet-d7486.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718274219517:android:6b8519135105830ee31d94",
+        "android_client_info": {
+          "package_name": "com.example.metri_valet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiUAvk1buE759JsihuxOCrkbxRJOm8Pio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
